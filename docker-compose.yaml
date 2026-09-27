@@ -7,3 +7,10 @@ services:
     ports:
       - "8787:8080"
       - "8773:8443"
+
+    environment:
+      DRAWIO_CONFIG_FILE: /config/drawio-config.json
+
+    volumes:
+      - ./config/drawio-config.json:/config/drawio-config.json:ro
+      - ./libraries:/usr/local/tomcat/webapps/draw/libraries:ro

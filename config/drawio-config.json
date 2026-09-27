@@ -1,0 +1,26 @@
+{
+  "libraries": [
+    {
+      "title": {
+        "main": "BRK / Katastrophenschutz"
+      },
+      "entries": [
+        {
+          "id": "kats",
+          "title": {
+            "main": "Taktische Zeichen"
+          },
+          "libs": [
+            {
+              "title": {
+                "main": "Taktische Zeichen"
+              },
+              "url": "/libs/custom/Taktische-Zeichen.xml"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "defaultLibraries": "general;kats"
+}
