@@ -6,308 +6,162 @@
       },
       "entries": [
         {
-          "id": "tz_allgemeine_einrichtungen",
-          "title": { "main": "TZ Allgemeine Einrichtungen" },
-          "libs": [
-            {
-              "title": { "main": "TZ Allgemeine Einrichtungen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Allgemeine%20Einrichtungen.xml"
-            }
-          ]
+          "id": "tz-allgemeine-einrichtungen",
+          "title": { "main": "Allgemeine Einrichtungen" },
+          "libs": [{ "title": { "main": "Allgemeine Einrichtungen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Allgemeine-Einrichtungen.xml" }]
         },
         {
-          "id": "tz_allgemeine_fahrzeuge",
-          "title": { "main": "TZ Allgemeine Fahrzeuge" },
-          "libs": [
-            {
-              "title": { "main": "TZ Allgemeine Fahrzeuge" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Allgemeine%20Fahrzeuge.xml"
-            }
-          ]
+          "id": "tz-allgemeine-fahrzeuge",
+          "title": { "main": "Allgemeine Fahrzeuge" },
+          "libs": [{ "title": { "main": "Allgemeine Fahrzeuge" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Allgemeine-Fahrzeuge.xml" }]
         },
         {
-          "id": "tz_bw_einheiten_personen",
-          "title": { "main": "TZ BW Einheiten und Personen" },
-          "libs": [
-            {
-              "title": { "main": "TZ BW Einheiten und Personen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20BW%20Einheiten%20und%20Personen.xml"
-            }
-          ]
+          "id": "tz-bw-einheiten-personen",
+          "title": { "main": "BW Einheiten und Personen" },
+          "libs": [{ "title": { "main": "BW Einheiten und Personen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-BW-Einheiten-und-Personen.xml" }]
         },
         {
-          "id": "tz_bw_fahrzeuge",
-          "title": { "main": "TZ BW Fahrzeuge" },
-          "libs": [
-            {
-              "title": { "main": "TZ BW Fahrzeuge" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20BW%20Fahrzeuge.xml"
-            }
-          ]
+          "id": "tz-bw-fahrzeuge",
+          "title": { "main": "BW Fahrzeuge" },
+          "libs": [{ "title": { "main": "BW Fahrzeuge" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-BW-Fahrzeuge.xml" }]
         },
         {
-          "id": "tz_betreuungswesen",
-          "title": { "main": "TZ Betreuungswesen" },
-          "libs": [
-            {
-              "title": { "main": "TZ Betreuungswesen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Betreuungswesen.xml"
-            }
-          ]
+          "id": "tz-betreuungswesen",
+          "title": { "main": "Betreuungswesen" },
+          "libs": [{ "title": { "main": "Betreuungswesen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Betreuungswesen.xml" }]
         },
         {
-          "id": "tz_bewegung_marsch",
-          "title": { "main": "TZ Bewegung und Marsch" },
-          "libs": [
-            {
-              "title": { "main": "TZ Bewegung und Marsch" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Bewegung%20und%20Marsch.xml"
-            }
-          ]
+          "id": "tz-bewegung-marsch",
+          "title": { "main": "Bewegung und Marsch" },
+          "libs": [{ "title": { "main": "Bewegung und Marsch" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Bewegung-und-Marsch.xml" }]
         },
         {
-          "id": "tz_einsatzeinheit",
-          "title": { "main": "TZ Einsatzeinheit" },
-          "libs": [
-            {
-              "title": { "main": "TZ Einsatzeinheit" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Einsatzeinheit.xml"
-            }
-          ]
+          "id": "tz-einsatzeinheit",
+          "title": { "main": "Einsatzeinheit" },
+          "libs": [{ "title": { "main": "Einsatzeinheit" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Einsatzeinheit.xml" }]
         },
         {
-          "id": "tz_ereignisse",
-          "title": { "main": "TZ Ereignisse" },
-          "libs": [
-            {
-              "title": { "main": "TZ Ereignisse" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Ereignisse.xml"
-            }
-          ]
+          "id": "tz-ereignisse",
+          "title": { "main": "Ereignisse" },
+          "libs": [{ "title": { "main": "Ereignisse" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Ereignisse.xml" }]
         },
         {
-          "id": "tz_fw_einheiten_personen",
-          "title": { "main": "TZ FW Einheiten und Personen" },
-          "libs": [
-            {
-              "title": { "main": "TZ FW Einheiten und Personen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20FW%20Einheiten%20und%20Personen.xml"
-            }
-          ]
+          "id": "tz-fw-einheiten-personen",
+          "title": { "main": "FW Einheiten und Personen" },
+          "libs": [{ "title": { "main": "FW Einheiten und Personen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-FW-Einheiten-und-Personen.xml" }]
         },
         {
-          "id": "tz_fw_einrichtungen",
-          "title": { "main": "TZ FW Einrichtungen" },
-          "libs": [
-            {
-              "title": { "main": "TZ FW Einrichtungen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20FW%20Einrichtungen.xml"
-            }
-          ]
+          "id": "tz-fw-einrichtungen",
+          "title": { "main": "FW Einrichtungen" },
+          "libs": [{ "title": { "main": "FW Einrichtungen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-FW-Einrichtungen.xml" }]
         },
         {
-          "id": "tz_fw_fahrzeuge",
-          "title": { "main": "TZ FW Fahrzeuge" },
-          "libs": [
-            {
-              "title": { "main": "TZ FW Fahrzeuge" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20FW%20Fahrzeuge.xml"
-            }
-          ]
+          "id": "tz-fw-fahrzeuge",
+          "title": { "main": "FW Fahrzeuge" },
+          "libs": [{ "title": { "main": "FW Fahrzeuge" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-FW-Fahrzeuge.xml" }]
         },
         {
-          "id": "tz_fuehrungskraefte",
-          "title": { "main": "TZ Führungskräfte und Sonderfunktionen" },
-          "libs": [
-            {
-              "title": { "main": "TZ Führungskräfte und Sonderfunktionen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20F%C3%BChrungskr%C3%A4fte%20und%20Sonderfunktionen.xml"
-            }
-          ]
+          "id": "tz-fuehrungskraefte",
+          "title": { "main": "Führungskräfte und Sonderfunktionen" },
+          "libs": [{ "title": { "main": "Führungskräfte und Sonderfunktionen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-FuehrungskraefteSonderfunktionen.xml" }]
         },
         {
-          "id": "tz_fuehrungsstellen",
-          "title": { "main": "TZ Führungsstellen und -einheiten" },
-          "libs": [
-            {
-              "title": { "main": "TZ Führungsstellen und -einheiten" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20F%C3%BChrungsstellen%20und%20-einheiten.xml"
-            }
-          ]
+          "id": "tz-fuehrungsstellen",
+          "title": { "main": "Führungsstellen und -einheiten" },
+          "libs": [{ "title": { "main": "Führungsstellen und -einheiten" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Fuehrungsstellen-und-einheiten.xml" }]
         },
         {
-          "id": "tz_gefahren_schaden",
-          "title": { "main": "TZ Gefahren und Schaden" },
-          "libs": [
-            {
-              "title": { "main": "TZ Gefahren und Schaden" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Gefahren%20und%20Schaden.xml"
-            }
-          ]
+          "id": "tz-gefahren-schaden",
+          "title": { "main": "Gefahren und Schaden" },
+          "libs": [{ "title": { "main": "Gefahren und Schaden" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Gefahren-und-Schaden.xml" }]
         },
         {
-          "id": "tz_iuk",
-          "title": { "main": "TZ Information und Kommunikation" },
-          "libs": [
-            {
-              "title": { "main": "TZ Information und Kommunikation" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Information%20und%20Kommunikation.xml"
-            }
-          ]
+          "id": "tz-iuk",
+          "title": { "main": "Information und Kommunikation" },
+          "libs": [{ "title": { "main": "Information und Kommunikation" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Information-und-Kommunikation.xml" }]
         },
         {
-          "id": "tz_kommunale_fahrzeuge",
-          "title": { "main": "TZ Kommunale Fahrzeuge" },
-          "libs": [
-            {
-              "title": { "main": "TZ Kommunale Fahrzeuge" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Kommunale%20Fahrzeuge.xml"
-            }
-          ]
+          "id": "tz-kommunale-fahrzeuge",
+          "title": { "main": "Kommunale Fahrzeuge" },
+          "libs": [{ "title": { "main": "Kommunale Fahrzeuge" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Kommunale-Fahrzeuge.xml" }]
         },
         {
-          "id": "tz_massnahmen",
-          "title": { "main": "TZ Maßnahmen" },
-          "libs": [
-            {
-              "title": { "main": "TZ Maßnahmen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Ma%C3%9Fnahmen.xml"
-            }
-          ]
+          "id": "tz-massnahmen",
+          "title": { "main": "Maßnahmen" },
+          "libs": [{ "title": { "main": "Maßnahmen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Massnahmen.xml" }]
         },
         {
-          "id": "tz_pol_zoll_einheiten",
-          "title": { "main": "TZ POL ZOLL Einheiten und Personen" },
-          "libs": [
-            {
-              "title": { "main": "TZ POL ZOLL Einheiten und Personen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20POL%20ZOLL%20Einheiten%20und%20Personen.xml"
-            }
-          ]
+          "id": "tz-pol-zoll-einheiten",
+          "title": { "main": "POL/ZOLL Einheiten und Personen" },
+          "libs": [{ "title": { "main": "POL/ZOLL Einheiten und Personen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-POL-ZOLL-Einheiten-und-Personen.xml" }]
         },
         {
-          "id": "tz_pol_zoll_fahrzeuge",
-          "title": { "main": "TZ POL ZOLL Fahrzeuge" },
-          "libs": [
-            {
-              "title": { "main": "TZ POL ZOLL Fahrzeuge" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20POL%20ZOLL%20Fahrzeuge.xml"
-            }
-          ]
+          "id": "tz-pol-zoll-fahrzeuge",
+          "title": { "main": "POL/ZOLL Fahrzeuge" },
+          "libs": [{ "title": { "main": "POL/ZOLL Fahrzeuge" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-POL-ZOLL-Fahrzeuge.xml" }]
         },
         {
-          "id": "tz_personen",
-          "title": { "main": "TZ Personen" },
-          "libs": [
-            {
-              "title": { "main": "TZ Personen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Personen.xml"
-            }
-          ]
+          "id": "tz-personen",
+          "title": { "main": "Personen" },
+          "libs": [{ "title": { "main": "Personen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Personen.xml" }]
         },
         {
-          "id": "tz_rettung_sanitaet",
-          "title": { "main": "TZ Rettungs- und Sanitätswesen" },
-          "libs": [
-            {
-              "title": { "main": "TZ Rettungs- und Sanitätswesen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Rettungs-%20und%20Sanit%C3%A4tswesen.xml"
-            }
-          ]
+          "id": "tz-rettung-sanitaet",
+          "title": { "main": "Rettungs- und Sanitätswesen" },
+          "libs": [{ "title": { "main": "Rettungs- und Sanitätswesen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Rettungs-und-Sanitaetswesen.xml" }]
         },
         {
-          "id": "tz_rettungshundewesen",
-          "title": { "main": "TZ Rettungshundewesen" },
-          "libs": [
-            {
-              "title": { "main": "TZ Rettungshundewesen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Rettungshundewesen.xml"
-            }
-          ]
+          "id": "tz-rettungshundewesen",
+          "title": { "main": "Rettungshundewesen" },
+          "libs": [{ "title": { "main": "Rettungshundewesen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Rettungshundewesen.xml" }]
         },
         {
-          "id": "tz_thw_einheiten",
-          "title": { "main": "TZ THW Einheiten" },
-          "libs": [
-            {
-              "title": { "main": "TZ THW Einheiten" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20THW%20Einheiten.xml"
-            }
-          ]
+          "id": "tz-thw-einheiten",
+          "title": { "main": "THW Einheiten" },
+          "libs": [{ "title": { "main": "THW Einheiten" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-THW-Einheiten.xml" }]
         },
         {
-          "id": "tz_thw_einrichtungen",
-          "title": { "main": "TZ THW Einrichtungen" },
-          "libs": [
-            {
-              "title": { "main": "TZ THW Einrichtungen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20THW%20Einrichtungen.xml"
-            }
-          ]
+          "id": "tz-thw-einrichtungen",
+          "title": { "main": "THW Einrichtungen" },
+          "libs": [{ "title": { "main": "THW Einrichtungen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-THW-Einrichtungen.xml" }]
         },
         {
-          "id": "tz_thw_fahrzeuge",
-          "title": { "main": "TZ THW Fahrzeuge" },
-          "libs": [
-            {
-              "title": { "main": "TZ THW Fahrzeuge" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20THW%20Fahrzeuge.xml"
-            }
-          ]
+          "id": "tz-thw-fahrzeuge",
+          "title": { "main": "THW Fahrzeuge" },
+          "libs": [{ "title": { "main": "THW Fahrzeuge" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-THW-Fahrzeuge.xml" }]
         },
         {
-          "id": "tz_thw_personen",
-          "title": { "main": "TZ THW Personen" },
-          "libs": [
-            {
-              "title": { "main": "TZ THW Personen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20THW%20Personen.xml"
-            }
-          ]
+          "id": "tz-thw-personen",
+          "title": { "main": "THW Personen" },
+          "libs": [{ "title": { "main": "THW Personen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-THW-Personen.xml" }]
         },
         {
-          "id": "tz_technik_sicherheit",
-          "title": { "main": "TZ Technik und Sicherheit" },
-          "libs": [
-            {
-              "title": { "main": "TZ Technik und Sicherheit" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Technik%20und%20Sicherheit.xml"
-            }
-          ]
+          "id": "tz-technik-sicherheit",
+          "title": { "main": "Technik und Sicherheit" },
+          "libs": [{ "title": { "main": "Technik und Sicherheit" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Technik-und-Sicherheit.xml" }]
         },
         {
-          "id": "tz_tiere",
-          "title": { "main": "TZ Tiere" },
-          "libs": [
-            {
-              "title": { "main": "TZ Tiere" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Tiere.xml"
-            }
-          ]
+          "id": "tz-tiere",
+          "title": { "main": "Tiere" },
+          "libs": [{ "title": { "main": "Tiere" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Tiere.xml" }]
         },
         {
-          "id": "tz_veterinaerwesen",
-          "title": { "main": "TZ Veterinärwesen" },
-          "libs": [
-            {
-              "title": { "main": "TZ Veterinärwesen" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Veterin%C3%A4rwesen.xml"
-            }
-          ]
+          "id": "tz-veterinaerwesen",
+          "title": { "main": "Veterinärwesen" },
+          "libs": [{ "title": { "main": "Veterinärwesen" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Veterinaerwesen.xml" }]
         },
         {
-          "id": "tz_wasserrettung",
-          "title": { "main": "TZ Wasserrettung" },
-          "libs": [
-            {
-              "title": { "main": "TZ Wasserrettung" },
-              "url": "https://brk-drawio.reitmayer.eu/libraries/TZ%20Wasserrettung.xml"
-            }
-          ]
+          "id": "tz-wasserrettung",
+          "title": { "main": "Wasserrettung" },
+          "libs": [{ "title": { "main": "Wasserrettung" }, "url": "https://brk-drawio.reitmayer.eu/libraries/TZ-Wasserrettung.xml" }]
+        },
+        {
+          "id": "tz-komplett",
+          "title": { "main": "Taktische Zeichen – komplett" },
+          "libs": [{ "title": { "main": "Taktische Zeichen – komplett" }, "url": "https://brk-drawio.reitmayer.eu/libraries/Taktische-Zeichen.xml" }]
         }
       ]
     }
   ],
-
-  "defaultLibraries": "general;tz_iuk;tz_fuehrungsstellen;tz_fuehrungskraefte"
+  "defaultLibraries": "general;tz-iuk"
 }
